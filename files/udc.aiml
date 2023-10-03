@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+<category>
+    <pattern>hey bud</pattern>
+    <template>hello friend </template>
+</category>
+<category>
+    <pattern>What's your name </pattern>
+    <template>I'm your friendly BotBuddy!</template>
+</category>
+<category>
+    <pattern>Tell me a joke</pattern>
+    <template>Sure, here's one: Why did the computer keep freezing? Because it left its Windows open!</template>
+</category>
+<category>
+    <pattern>What's the weather like today </pattern>
+    <template>I'm sorry, I don't have access to real-time data. You can check a weather website or app for the current conditions.</template>
+</category>
+<category>
+    <pattern>Can you recommend a good book to read </pattern>
+    <template>Of course! I recommend 'The Hitchhiker's Guide to the Galaxy' by Douglas Adams. It's a hilarious sci-fi classic</template>
+</category>
+<category>
+    <pattern>Who won the World Series last year </pattern>
+    <template>Edit bot response</template>
+</category>
+</aiml>
